@@ -48,13 +48,15 @@ const TRANSLATIONS = {
   "Hace 11 horas": "11 hours ago",
   "Entiendo tu frustración. Es importante que la comunidad se una para exigir mejores servicios. ¿Has intentado contactar a los representantes locales o a organizaciones de derechos humanos?":
     "I understand your frustration. It's important for the community to come together to demand better services. Have you tried contacting local representatives or human rights organizations?",
-
+  "Escribe una respuesta...": "Write a response...",  
+   
   // Publicación 2
   "Hace 21 horas": "21 hours ago",
   "Consejo: Tenemos que cuidar nuestros recursos hídricos porque de lo contrario tendremos muchos problemas con la falta de agua en nuestro país.":
     "Tip: We must take care of our water resources, otherwise we'll face serious water shortage problems in our country.",
   "#agua #consejo #cuidado #recursoshídricos #futuroverde #sostenibilidad":
     "#water #tip #care #waterresources #greenfuture #sustainability",
+   "Escribe un comentario...": "Write a comment...", 
 
   // SIDEBAR
   "Categorías populares":         "Popular categories",
